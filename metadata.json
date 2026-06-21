@@ -1,0 +1,6 @@
+{
+  "name": "Quién Quiere Ser Millonario",
+  "description": "Un juego de 'Quién quiere ser millonario' con 15 preguntas de español y armenio, comodines clásicos y sonidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
